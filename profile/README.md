@@ -1,9 +1,5 @@
 <div align="center">
-
-  <!-- BANNER DINÂMICO MODERNO COM EFEITO NEON / GRADIENTE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&theme=tokyonight&height=240&section=header&text=Big-O-Five&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=High-Performance%20Engineering%20%7C%20Distributed%20Systems&descSize=19&descAlignY=58&descAlign=50" width="100%" alt="Big-O-Five Banner" />
-
-  <!-- BADGES DE IDENTIDADE TÉCNICA -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&theme=tokyonight&height=240&section=header&text=Big-O-Five&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=High-Performance%20Engineering%20%7C%20Distributed%20Systems&descSize=19&descAlignY=58&descAlign=50" width="100%" alt="Big-O-Five Banner" />
   <p align="center">
     <img src="https://img.shields.io/badge/Architecture-Distributed%20%26%20Scalable-0d1117?style=for-the-badge&logo=electron&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Focus-High%20Performance-0d1117?style=for-the-badge&logo=speedtest&logoColor=00FF66" />
