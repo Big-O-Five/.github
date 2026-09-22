@@ -1,7 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&text=Big-O-Five&fontSize=50&fontColor=ffffff&desc=High-Performance%20Engineering%20%7C%20Distributed%20Systems&descSize=18&descAlignY=68&descAlign=50" width="100%" />
 
-  <!-- Banner com gradiente e animação sutil gerado via SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Big-O-Five&fontSize=58&fontAlignY=42&fontColor=ffffff&desc=Engenharia%20de%20Software%20%7C%20Alta%20Performance%20%7C%20Escalabilidade&descSize=18&descAlignY=62&descColor=8b949e" width="100%" alt="Big-O-Five Header" />
+  <br/><br/>
 
   <p align="center">
     <strong>Construindo soluções robustas, performáticas e escaláveis.</strong>
@@ -13,12 +13,10 @@
     <a href="#-conecte-se-conosco">Contato</a>
   </p>
 
-  <!-- Métricas rápidas / Badges de status -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Ativo-238636?style=for-the-badge&logo=github" alt="Status" />
-    <img src="https://img.shields.io/badge/Foco-Performance%20%26%20Arquitetura-blue?style=for-the-badge" alt="Foco" />
-  </p>
-
+ 
+  <img src="https://skillicons.dev/icons?i=rust,python,ts,js,java,kotlin,c,cpp&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,django&theme=dark" />
 </div>
 
 ---
