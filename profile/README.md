@@ -40,60 +40,6 @@
 
   <br/><br/>
 
-  <!-- TABELA DETALHADA E MODERNA DAS TECNOLOGIAS DO TIME -->
-<details>
-    <summary><b>🔍 Ver divisão detalhada das tecnologias</b></summary>
-    <br/>
-    <table>
-      <thead>
-        <tr>
-          <th align="center"><b>Categoria</b></th>
-          <th align="left"><b>Stack & Ferramentas</b></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="center"><b>💻 Linguagens</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-            <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-            <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-            <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-            <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-          </td>
-        </tr>
-        <tr>
-          <td align="center"><b>🌐 Front-end & UI</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-          </td>
-        </tr>
-        <tr>
-          <td align="center"><b>⚙️ Back-end & APIs</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-            <img src="https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white" />
-            <img src="https://img.shields.io/badge/Django_Ninja-009688?style=flat-square&logo=fastapi&logoColor=white" />
-          </td>
-        </tr>
-        <tr>
-          <td align="center"><b>📱 Mobile</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-            <img src="https://img.shields.io/badge/Kotlin_Android-7F52FF?style=flat-square&logo=android&logoColor=white" />
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </details>
-  <br/><br/>
-
   <!-- RODAPÉ DINÂMICO FECHANDO O CARD -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&theme=tokyonight&height=120&section=footer" width="100%" alt="Footer Wave" />
 
