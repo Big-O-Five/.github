@@ -7,7 +7,6 @@ Bem-vindo(a) ao perfil da organização **Big-O-Five**. Aqui concentramos nossos
 
 ### 💻 Sobre Nós
 - 💡 Foco em desenvolvimento de software com performance e boas práticas.
-- 🛠️ Tecnologias e stacks principais:
 - ### 🛠️ Tecnologias e Stacks
 
 #### 💻 Linguagens de Programação
