@@ -42,34 +42,36 @@
 
   <!-- TABELA DETALHADA E MODERNA DAS TECNOLOGIAS DO TIME -->
   <details>
-    <summary><b>🔍 Ver detalhamento por categorias técnicas</b></summary>
+  <summary><b>🔍 Ver divisão detalhada das tecnologias</b></summary>
     <br/>
-    <table>
-      <thead>
-        <tr>
-          <th>Categoria</th>
-          <th>Ferramentas e Frameworks</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><b>Linguagens</b></td>
-          <td>Rust, C, C++, Python, JavaScript, TypeScript, Java, Kotlin</td>
-        </tr>
-        <tr>
-          <td><b>Front-end & UI</b></td>
-          <td>React, Tailwind CSS, HTML5, CSS3</td>
-        </tr>
-        <tr>
-          <td><b>Back-end & APIs</b></td>
-          <td>Django, Django REST Framework (DRF), Django Ninja</td>
-        </tr>
-        <tr>
-          <td><b>Mobile</b></td>
-          <td>React Native, Kotlin (Android)</td>
-        </tr>
-      </tbody>
-    </table>
+    <p><b>💻 Linguagens de Programação</b></p>
+    <p>
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+    </p>
+
+    <p><b>🌐 Front-end & Estilização</b></p>
+    <p>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </p>
+
+    <p><b>⚙️ Back-end, APIs & Mobile</b></p>
+    <p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django_Ninja-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Android_Kotlin-7F52FF?style=for-the-badge&logo=android&logoColor=white" />
+    </p>
   </details>
 
   <br/><br/>
