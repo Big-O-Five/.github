@@ -7,7 +7,8 @@
   </p>
 
   <p align="center">
-    <b>Construindo soluções escaláveis, eficientes e de baixa latência.</b><br>
+    Somos um coletivo de desenvolvimento focado na intersecção entre <b>eficiência de algoritmos,arquitetura limpa e experiência do usuário</b>. De sistemas de baixo nível a plataformas web e móveis completas, priorizamos código seguro, testável e manutenível.
+    <b>Construindo soluções escaláveis, eficientes e de baixa latência.<br>
     Unindo sistemas de baixo nível, engenharia distribuída e produtos web/mobile resilientes.
   </p>
 
