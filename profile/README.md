@@ -6,10 +6,12 @@
     <img src="https://img.shields.io/badge/Open_Source-Collaborative-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 
+ <p align="center">
+    <b>Somos um coletivo de engenharia focado na intersecção entre eficiência algorítmica, arquitetura limpa e experiência do usuário.</b>
+  </p>
+
   <p align="center">
-    Somos um coletivo de desenvolvimento focado na intersecção entre <b>eficiência de algoritmos,arquitetura limpa e experiência do usuário</b>. De sistemas de baixo nível a plataformas web e móveis completas, priorizamos código seguro, testável e manutenível.
-    <b>Construindo soluções escaláveis, eficientes e de baixa latência.<br>
-    Unindo sistemas de baixo nível, engenharia distribuída e produtos web/mobile resilientes.
+    De sistemas de baixo nível a plataformas web e mobile completas, projetamos soluções escaláveis, resilientes e de baixa latência — sempre priorizando código seguro, testável e manutenível.
   </p>
 
   <br/>
